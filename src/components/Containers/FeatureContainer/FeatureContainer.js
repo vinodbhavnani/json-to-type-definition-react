@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import Editor from '../../Editor';
-import TypeDictator from '../../TypeDictator';
+import Editor from '../../FeatureComponents/Editor';
+import TypeDictator from '../../FeatureComponents/TypeDictator';
 import './FeatureContainer.css';
 
 const FeatureContainer = () => {
